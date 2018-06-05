@@ -1,0 +1,5 @@
+export CLICOLOR=1
+export LSCOLORS=Exbxaxdxcxegedabagacad
+# \h:\W \u\$
+export PS1='\n\[\033[01;37m\]┌─ \[\033[22;36m\]\u@\h\[\033[01;33m\] \W\n\[\033[01;37m\]└─── \$\[\033[00m\] '
+export PATH=$PATH:/usr/local/bin/
